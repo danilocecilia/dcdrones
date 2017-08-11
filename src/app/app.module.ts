@@ -7,8 +7,8 @@ import { MenuComponent }    from './components/menu/menu';
 import { BannerComponent }  from './components/banner/banner';
 import { GalleryComponent } from './components/gallery/gallery';
 import { AboutComponent }   from './components/about/about';
-import { ContactComponent }   from './components/contact/contact';
-import { FooterComponent }   from './components/footer/footer';
+import { ContactComponent } from './components/contact/contact';
+import { FooterComponent }  from './components/footer/footer';
 
 @NgModule({
   imports: [

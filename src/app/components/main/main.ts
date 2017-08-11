@@ -3,7 +3,7 @@ import { MenuComponent }    from '../menu/menu';
 import { BannerComponent }  from '../banner/banner';
 import { GalleryComponent } from '../gallery/gallery';
 import { AboutComponent }   from '../about/about';
-import { FooterComponent }   from '../footer/footer';
+import { FooterComponent }  from '../footer/footer';
 
 @Component({
   selector: 'main-app',
