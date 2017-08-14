@@ -7,7 +7,7 @@ import { FooterComponent }  from '../footer/footer';
 
 @Component({
   selector: 'main-app',
-  templateUrl: './main.html'
+  templateUrl: require('./main.html')
 })
 
 export class AppComponent {

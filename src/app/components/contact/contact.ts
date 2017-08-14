@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'mw-contact',
-    templateUrl: './contact.html'
+    templateUrl: require('./contact.html')
 })
 
 export class ContactComponent{
